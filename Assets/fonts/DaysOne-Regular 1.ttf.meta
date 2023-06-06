@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c72bffd9c18db7c48a7772140c682a37
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Days One
+  fontNames:
+  - Days One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20b124d2f3b93764ea463f769a44a9bf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

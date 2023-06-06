@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 20b124d2f3b93764ea463f769a44a9bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Days One
+  fontNames:
+  - Days One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c72bffd9c18db7c48a7772140c682a37, type: 3}
+  customCharacters: "A numberofcysladithk.FwvH\t\u2192024$g\xA23\xA3p\xA45\xA519\u01928\u058F6B\u200E\u060B\u09F2\u09F3\u0AF1j\u0BF9E\u0E3F7D\u17DB\u2133\u5143-\u5186\u5706\u5713C\uFDFC\U0001E2FF\u20A0URONYSIG\u2022,;T!\u20AC\u20A1L\u20A2Zz\u20A3\u20A4\u20BA\u20A5M(/)\u20A6\u20A7P\u20B1\u20A8\u20B9\u2248\u20A9WK\u20AAQ\u20ABV\u20AD\u20AE\xF6\u20AF\u20B0=x\u20B2\u20B3\u20B4\u20B5'\u023B\u20B6\u20B7\u20B8\u2351\u2564\u3012\u0930\u20BB\u20BC\u20BD\u20BE\u20BF"
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
